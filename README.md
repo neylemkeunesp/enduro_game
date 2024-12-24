@@ -1,16 +1,32 @@
-# enduro_game
+# Enduro Game
 
-A new Flutter project.
+A Flutter implementation of the classic Enduro racing game.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Classic racing gameplay
+- Dynamic perspective road rendering
+- Car controls with acceleration and steering
+- Enemy cars with collision detection
+- Speedometer and odometer display
+- Level progression system
 
-A few resources to get you started if this is your first Flutter project:
+## Controls
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ↑ Accelerate
+- ↓ Brake
+- ← → Steer left/right
+- SPACE Start game
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Development
+
+This game is built with Flutter. To run it locally:
+
+1. Ensure you have Flutter installed
+2. Clone this repository
+3. Run `flutter pub get`
+4. Run `flutter run`
+
+## Screenshots
+
+Coming soon...
